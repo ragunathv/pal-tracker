@@ -13,7 +13,7 @@ resources:
     api: {{cf-api-url}}
     username: {{cf-username}}
     password: {{cf-password}}
-    organization: {{cf-org}}
+    organization: ragunath-venkatapathy-pal
     space: sandbox
 
 jobs:
